@@ -6,11 +6,11 @@ Largely inspired by [this video](https://www.youtube.com/watch?v=xW8skO7MFYw) fr
 # install / run
 
 ```sh
-sudo apt install libncursesw5-dev
-./build_and_run.sh  # uses cmake
+sudo apt install libncursesw5-dev cmake
+./build_and_run.sh
 ```
 
-In case ncurses mess up your terminal, just type : `reset`
+In case ncurses mess up your terminal, just type `reset`
 
 # improvement suggestions
 
