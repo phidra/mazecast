@@ -8,22 +8,6 @@
 #include "renderer.h"
 
 
-/*
-STILL TO DO :
-- use clang formatter ?
-
-Dependencies :
-    sudo apt install libncursesw5-dev
-
-Improvements :
-- fix fish-eye effect
-- build a colour minimap (instead of the current ascii one)
-
-In case ncurses messed up your terminal, just type "reset"
-
-*/
-
-
 int main(int argc, char* argv[])
 {
 
